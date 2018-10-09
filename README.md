@@ -39,3 +39,6 @@ JavaRush.ru – Java Core
 I have the certificate Oracle OCA 808 -
 https://www.youracclaim.com/badges/95269d36-d4f3-4d1a-84a2-1b2957b7f944/linked_in
 
+
+Now I am working on an educational project: https://github.com/andrew-okhrimchuk/Graduation-project
+
