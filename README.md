@@ -35,10 +35,11 @@ https://topjava01.herokuapp.com    deployed to Heroku
 
 Practical courses 
 JavaRush.ru – Java Core 
+http://javaops.ru/certificate/topjava?email=andrew456gold@gmail.com
 
-I have the certificate Oracle OCA 808 -
-https://www.youracclaim.com/badges/95269d36-d4f3-4d1a-84a2-1b2957b7f944/linked_in
+Oracle Certified Associate, Java SE 8 Programmer (OCA)
+https://www.youracclaim.com/badges/95269d36-d4f3-4d1a-84a2-1b2957b7f944/linked_in_profile
 
-
-Now I am working on an educational project: https://github.com/andrew-okhrimchuk/Graduation-project
+Algorithmic Toolbox (Coursera Course Certificates)
+https://www.coursera.org/account/accomplishments/certificate/XW3PMWNZDALB
 
