@@ -5,7 +5,9 @@ Andrey Okhrimchyk
 +38 097-210-33-56
 
 
-Kiev, UkraineAndrey.Okhrimchyk@gmail.com
+Kiev, Ukraine 
+Andrey.Okhrimchyk@gmail.com
+
 Skype: ohrimchyk1          https://github.com/andrew-okhrimchuk
 
 Java Developer
