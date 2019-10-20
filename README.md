@@ -18,18 +18,18 @@ Searching for the position of a Software Developer, as a part of the team and ta
 
 
 Relevant Skills
-Java SE 7,8, Collections, Multithreading,  Java Core, Concurrency, JPQL, JSP,  Servlets, Git, Tomcat,  XML,  SQL, MySQL, CSS, JavaScript, jQuery, HTML, JUnit and TestNG, OOP, OOD, JDBC,  JPA(Hibernate), Git, Maven, English intermediate, Ukrainian native, Russian native.
-
+Java SE 8, Collections, Multithreading,  Java Core, Docker, JS, Concurrency, JPQL, JSP,  Servlets, Git, Tomcat,  XML,  SQL, MySQL, CSS, JavaScript, jQuery, HTML, JUnit and TestNG, OOP, OOD, JDBC,  JPA(Hibernate), Git, Maven, English intermediate, Ukrainian native, Russian native.
+Spring Core and Boot
 
 Work Experience
 Develop a web application in Java 8 to display statistical user data
 Server side: Spring MVC, Hibernate, TestNG , Java 8.
 Client side: JSP, JavaScript, HTML, CSS, jQuery.
-Datebase: MySQL, HSQL, Skill composing complex database queries.
+Datebase: MySQL, HSQL, Postgrise, MongoGB Skill composing complex database queries.
 
 
 Web Server: Apache Tomcat.
-Other: Maven, Git.
+Other: Maven, Git, Docker
 https://github.com/andrew-okhrimchuk/topjava
 https://topjava01.herokuapp.com    deployed to Heroku
 
